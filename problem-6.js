@@ -15,4 +15,4 @@ function generatePassword(length) {
 
 let length = 8;
 const result = generatePassword(length);
-console.log(result)
+console.log(result);
